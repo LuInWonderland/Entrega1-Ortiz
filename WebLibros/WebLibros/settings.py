@@ -55,7 +55,7 @@ ROOT_URLCONF = 'WebLibros.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['WebLibros\\AppLibros\\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
