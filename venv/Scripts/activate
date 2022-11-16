@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\anluc\Desktop\Coderhouse\Pre entrega\Entrega1-Ortiz\venv"
+VIRTUAL_ENV="D:\GitHub\Entrega1-Ortiz\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
